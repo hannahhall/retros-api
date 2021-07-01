@@ -1,0 +1,10 @@
+[FORMAT]
+good-names=i,
+    j,
+    ex,
+    pk,
+    id,
+
+[MESSAGES CONTROL]
+disable=broad-except,redefined-builtin,missing-module-docstring,imported-auth-user
+
