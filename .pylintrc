@@ -6,5 +6,5 @@ good-names=i,
     id,
 
 [MESSAGES CONTROL]
-disable=broad-except,redefined-builtin,missing-module-docstring,imported-auth-user
+disable=broad-except,redefined-builtin,missing-module-docstring,imported-auth-user,too-many-ancestors,no-member
 
